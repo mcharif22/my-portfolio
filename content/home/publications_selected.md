@@ -32,3 +32,11 @@ list_format = 1
 publication_type = "-1"
 +++
 
+Understanding Big Data Basics:
+https://www.linkedin.com/pulse/understanding-big-data-basics-mohamad-el-charif/
+
+MySQL Football Tutorial:
+https://www.linkedin.com/pulse/mysql-football-tutorial-mohamad-el-charif/
+
+MySQL vs. MongoDB Queries:
+https://www.linkedin.com/pulse/mysql-vs-mongodb-queries-mohamad-el-charif/
