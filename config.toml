@@ -279,6 +279,16 @@ enableGitInfo = false
     icon = "google-plus"
     icon_pack = "fab"
     link = "https://plus.google.com/u/1/+MohamadElCharif22"
+    
+  [[params.social]]
+    icon = "pinterest"
+    icon_pack = "fab"
+    link = "https://www.pinterest.com/melcharif/"
+    
+  [[params.social]]
+    icon = "stroopwafel"
+    icon_pack = "fas"
+    link = "https://public.tableau.com/profile/mohamad.el.charif/"    
 
   [[params.social]]
     icon = "github"
@@ -289,6 +299,11 @@ enableGitInfo = false
     icon = "bitbucket"
     icon_pack = "fab"
     link = "https://bitbucket.org/moecharif/"
+    
+  [[params.social]]
+    icon = "google-drive"
+    icon_pack = "fab"
+    link = "https://www.google.com/drive/"  
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
