@@ -303,7 +303,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "google-drive"
     icon_pack = "fab"
-    link = "https://www.google.com/drive/"  
+    link = "https://drive.google.com/drive/folders/1N_eSXO4i3IsUr2cCHr81fr9nts7nJnRv?usp=sharing"  
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
