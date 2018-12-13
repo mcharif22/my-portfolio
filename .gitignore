@@ -1,3 +1,6 @@
 public/
 .idea/
 .Rproj.user
+.RData
+.RData
+.Rhistory
