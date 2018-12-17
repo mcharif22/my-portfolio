@@ -12,7 +12,9 @@ weight = 5
   interests = [
     "Quality Assurance",
     "Data Science",
-    "Machine Learning"
+    "Machine Learning",
+    "Gym",
+    "Manchester United"
   ]
 
 # List your qualifications (such as academic degrees).
