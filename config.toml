@@ -288,7 +288,12 @@ enableGitInfo = false
   [[params.social]]
     icon = "stroopwafel"
     icon_pack = "fas"
-    link = "https://public.tableau.com/profile/mohamad.el.charif/"    
+    link = "https://public.tableau.com/profile/mohamad.el.charif/"
+    
+  [[params.social]]
+    icon = "registered"
+    icon_pack = "fas"
+    link = "http://rpubs.com/mcharif22"    
 
   [[params.social]]
     icon = "github"
