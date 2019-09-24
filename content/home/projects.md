@@ -50,5 +50,6 @@ filter_default = 0
 
 +++
 
-* Building website for a construction company: http://amarco.info/
-* Designing real football database system: *To Be Published Later On*
+* Building websites
+* ERP Quality Assurance
+* Creating and designing diagrams satisying Business requirements
